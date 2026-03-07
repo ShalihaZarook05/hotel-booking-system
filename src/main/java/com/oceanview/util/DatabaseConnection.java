@@ -16,7 +16,7 @@ public class DatabaseConnection {
     // Database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/ocean_view_resort?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "Yahya@123"; // CHANGE THIS TO YOUR MYSQL PASSWORD!
+    private static final String DB_PASSWORD = "Shaliha@123"; // CHANGE THIS TO YOUR MYSQL PASSWORD!
     private static final String DB_DRIVER = "com.mysql.cj.jdbc.Driver";
     
     // Connection object

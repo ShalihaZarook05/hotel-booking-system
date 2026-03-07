@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Ocean_View" uuid="f077c7d4-e79b-431f-a416-551966a0b914">
+    <data-source source="LOCAL" name="@localhost" uuid="de909925-6b4a-454a-b5de-bb66d3a75c15">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
